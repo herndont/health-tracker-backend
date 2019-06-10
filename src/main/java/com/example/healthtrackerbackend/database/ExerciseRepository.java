@@ -1,4 +1,4 @@
-package com.example.healthtrackerbackend;
+package com.example.healthtrackerbackend.database;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;
