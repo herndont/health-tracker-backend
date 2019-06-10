@@ -15,5 +15,6 @@ Android: Post Exercises to the server
 When a user creates a new Exercise locally on their device, in addition to saving it to the local database, the app 
 should POST it to the server.
 
+[Android frontend readme](https://github.com/herndont/healthtracker/tree/lab34)
 
 
