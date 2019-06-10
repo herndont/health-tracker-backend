@@ -1,4 +1,4 @@
-package com.example.healthtrackerbackend;
+package com.example.healthtrackerbackend.database;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
